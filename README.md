@@ -2,7 +2,7 @@
 
 Kho lưu trữ trang theo dõi tiến độ của Ban Tái cấu trúc (buffet hải sản Cửu Vân Long).
 
-- **Trang làm việc hằng ngày:** <https://dinhthuyduong0309-beep.github.io/CVL--TIMELINE-PROJECT/>. Cả nhóm sửa trực tiếp, dữ liệu tự lưu vào Google Sheets "Tiến độ TCT CVL – dữ liệu" (tab `Tasks`) và tự đồng bộ 30 giây/lần.
+- **Trang làm việc hằng ngày:** <https://dinhthuyduong0309-beep.github.io/cvl-timeline/>. Cả nhóm sửa trực tiếp, dữ liệu tự lưu vào Google Sheets "Tiến độ TCT CVL – dữ liệu" (tab `Tasks`) và tự đồng bộ 30 giây/lần.
 - Trang cũ trên Claude (<https://claude.ai/artifact/KGFFAaVqw318vQpT2jexoN>) không còn dùng để cập nhật.
 - **Repo này** giữ mã nguồn trang cùng các bản chụp dữ liệu theo thời điểm. Mỗi commit là một mốc để đối chiếu xem tiến độ đã thay đổi thế nào.
 
